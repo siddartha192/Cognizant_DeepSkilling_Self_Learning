@@ -12,3 +12,9 @@ public class BubbleSort {
         }
     }
 }
+/*
+    Time Complexity
+        best -> O(n)
+        average -> O(n^2)
+        worst -> O(n^2)
+*/

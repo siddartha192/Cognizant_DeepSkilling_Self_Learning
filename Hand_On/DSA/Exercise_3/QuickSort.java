@@ -23,3 +23,15 @@ public class QuickSort {
         return i + 1;
     }
 }
+
+
+/*
+    Time Complexity
+        best -> O(nlogn)
+        average -> O(nlogn)
+        worst -> O(n^2)
+
+
+    Quick sort is much better than bubble sort in terms of time complexity.
+    for implementation bubble sort may look easier but for time complexity quicksort 
+*/
