@@ -1,4 +1,5 @@
 public class Employee {
+
     private int employeeId;
     private String name;
     private String position;
@@ -14,10 +15,12 @@ public class Employee {
     public int getEmployeeId(){
         return employeeId;
     }
+
     public String toString(){
         return "ID= "+employeeId+
                 ", Name= "+name+
                 ", position= "+position+
                 ", salary= "+salary;
     }
+    
 }
