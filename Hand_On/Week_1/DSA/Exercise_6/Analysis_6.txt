@@ -1,0 +1,30 @@
+Time Complexities are:
+    Algo        Best        Worst       Average
+    Linear      O(1)        O(n)        O(n)
+    Binary      O(1)        O(logn)     O(logn)
+
+Linear Search
+
+Advantages:
+    Works on unsorted data.
+    Easy to implement.
+
+Disadvantages:
+    Slow for large datasets.
+
+Use when:
+    Small number of books.
+    Data is not sorted.
+
+Binary Search
+
+Advantages:
+    Very fast.
+    Efficient for large libraries.
+
+Disadvantages:
+    Requires sorted data.
+
+Use when:
+    Large number of books.
+    Data is already sorted by title.
