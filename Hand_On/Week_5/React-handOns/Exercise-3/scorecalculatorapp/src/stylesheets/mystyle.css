@@ -25,3 +25,33 @@ h3{
 p{
     font-size:18px;
 }
+
+.card{
+
+    width:400px;
+
+    margin:40px auto;
+
+    padding:20px;
+
+    border:2px solid gray;
+
+    border-radius:10px;
+
+    background:#f5f5f5;
+
+    font-family:Arial;
+
+}
+
+h1{
+
+    text-align:center;
+
+}
+
+p{
+
+    font-size:20px;
+
+}
