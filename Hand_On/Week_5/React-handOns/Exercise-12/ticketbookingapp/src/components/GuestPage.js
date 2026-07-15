@@ -1,4 +1,5 @@
 import FlightDetails from "./FlightDetails";
+
 function GuestPage({login}){
     return(
         <div>

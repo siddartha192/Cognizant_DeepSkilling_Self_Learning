@@ -1,9 +1,9 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import FlightDetails from './FlightDetails.js'
+import FlightDetails from './components/FlightDetails.js'
 import React, { useState }from "react";
-import UserPage from './UserPage.js';
-import GuestPage from './GuestPage.js';
+import UserPage from './components/UserPage.js';
+import GuestPage from './components/GuestPage.js';
 
 
 function App() {
